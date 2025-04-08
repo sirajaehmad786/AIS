@@ -1,0 +1,13 @@
+{
+    "USER":{
+        "INVALID_CREDENCIAL":"Invalid email or password",
+        "INVALID_PASSWORD":"Invalid password",
+        "LOGIN_SUCCESS":"Login successful",
+        "EMAIL_AND_PASSWORD":"Email and password are required",
+        "EMAIL_INVALID":"Invalid email format",
+        "CHAT_MESSAGE":"Message is required"
+    },
+    "ERRORS": {
+        "GENERAL": "Something went wrong"
+    }
+}
